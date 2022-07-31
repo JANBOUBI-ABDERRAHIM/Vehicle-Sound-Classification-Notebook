@@ -1,0 +1,14 @@
+librosa
+numpy
+scipy
+IPython
+matplotlib
+pickle
+pandas
+tensorflow
+keras
+scikit-learn
+datetime
+visualkeras
+PIL
+seaborn
